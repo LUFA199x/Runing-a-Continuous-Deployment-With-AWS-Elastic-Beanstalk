@@ -1,4 +1,4 @@
-# Running-a-Continuous-Deploy-With-AWS-Elastic-Beanstalk
+# Running-a-Continuous-Deployment-With-AWS-Elastic-Beanstalk
 
 # Lab Overview
 One of the highest risk parts of running a software company, in terms of availability concerns, is the risk of a faulty deployment. During deployments, complex systems with multiple parts are actively moving around the delicate parts of many other systems. Deployment risk can be minimized by studying a couple of common approaches to deploying code to running machines. 
